@@ -2,7 +2,8 @@
 
 An IDE for [NeoVim](https://github.com/neovim/neovim)
 
-- Contact me [here](contact.octovim@proton.me)
+- Contact me : contact.octovim@proton.me
+- Discord: 1am_simp1e®
 
 <div align="center"><p>
     <a href="https://github.com/lunarvim/OctoVim/blob/main/LICENSE">
